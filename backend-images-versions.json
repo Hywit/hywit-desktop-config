@@ -1,5 +1,5 @@
 {
-  "HYWIT_UI_IMAGE": "hywit/desktop:hywit-ui-1.0.3",
+  "HYWIT_UI_IMAGE": "hywit/desktop:hywit-ui-1.0.4",
   "INIT_SERVICE_IMAGE": "hywit/desktop:init-service-1.0.2",
   "BASE_MCP_SERVER_IMAGE": "hywit/desktop:base-mcp-server-1.0.2",
   "HTTP_ENDPOINTS_SERVER_IMAGE": "hywit/desktop:http-endpoints-server-1.0.2",
